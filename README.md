@@ -1,14 +1,19 @@
-#   Cybersecurity(purple team) portofolio
+#   Cybersecurity(purple team) portfolio
 
 # Professional security assessment and research
 
- Kingsley Dickson. | SOC Analyst | penetration tester | cloud security
+ Kingsley Dickson O | SOC Analyst | penetration tester | cloud security
 
 # Specializations
 
 vulnerability assessment 
+
 penetration testing
+
 Log analysis
+
 forensics
-web application & network security 
-featured engagement
+
+web application & network security
+
+cloud security
